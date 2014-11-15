@@ -1,15 +1,14 @@
+/* line 1, style.css.scss */
 body {
   background-color: #000;
   margin: 0px;
 }
-
-.main {
+/* line 5, style.css.scss */
+body .main {
   border-top: 1px solid #404040;
-  padding: 10px
-
+  padding: 10px;
 }
-
-h1 {
+/* line 11, style.css.scss */
+body h1 {
   color: #fff;
 }
-
